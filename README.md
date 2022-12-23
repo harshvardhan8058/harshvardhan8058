@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Harshvardhan Sharma</h1>
 <h3 align="center">A passionate software engineer</h3>
-<img align="right" alt="Coding" width="400" src="<iframe src="https://gifer.com/embed/GYny" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>">
+<img align="right" alt="Coding" width="400" src="<iframe src="https://gifer.com/embed/GYny">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshvardhan8058&label=Profile%20views&color=0e75b6&style=flat" alt="harshvardhan8058" /> </p>
 
