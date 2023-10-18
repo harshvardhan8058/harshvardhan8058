@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Algorithm visualizer**
 
-- 🌱 I’m currently learning **Os,DBMS**
+- 🌱 I’m currently learning **AI,ML**
 
 - 📫 How to reach me **sharmaharshvardhan80@gmail.com**
 
